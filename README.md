@@ -60,9 +60,9 @@ python test_api.py
 
 ```
 Repository "my_test_repo" created successfully!
-A repository "my_test_repo" exists.
+Repository "my_test_repo" exists.
 Repository "my_test_repo" deleted successfully!
-A repository "my_test_repo" does not exist.
+Repository "my_test_repo" does not exist.
 ```
 
 ## Технологии

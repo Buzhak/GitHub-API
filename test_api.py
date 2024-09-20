@@ -46,9 +46,9 @@ def is_repo_exists(repo_name: str) -> None:
     all_repos = get_all_repos()
 
     if repo_name in all_repos:
-        print(f'A repository "{repo_name}" exists.')
+        print(f'Repository "{repo_name}" exists.')
     else:
-        print(f'A repository "{repo_name}" does not exist.')
+        print(f'Repository "{repo_name}" does not exist.')
 
 
 def create_new_repo(repo_name: str) -> None:
