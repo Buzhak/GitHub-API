@@ -32,6 +32,7 @@ python3 -m venv env
 ```
 
 4. Запускаем виртуальное окружение
+
 win
 ```
 env\Scripts\activate
